@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>RecipeName</key>
+	<array>
+		<string>PHP</string>
+		<string>Java</string>
+		<string>HTML</string>
+		<string>CSS</string>
+		<string>CMS</string>
+		<string>CakePHP</string>
+		<string>YiYI</string>
+		<string>CI</string>
+		<string>Vegetable</string>
+		<string>Noodle</string>
+		<string>BBQ</string>
+		<string>Japanese Noodle</string>
+		<string>Green Tea</string>
+		<string>Thai Shrimp Cake</string>
+		<string>Angry Birds Cake</string>
+		<string>Ham and Cheese Panini</string>
+	</array>
+	<key>Thumbnail</key>
+	<array>
+		<string>image.jpg</string>
+		<string>image1.jpg</string>
+		<string>image.jpg</string>
+		<string>image1.jpg</string>
+		<string>image.jpg</string>
+		<string>image1.jpg</string>
+		<string>image.jpg</string>
+		<string>image1.jpg</string>
+		<string>image.jpg</string>
+		<string>image1.jpg</string>
+		<string>image.jpg</string>
+		<string>image1.jpg</string>
+		<string>image.jpg</string>
+		<string>image1.jpg</string>
+		<string>image.jpg</string>
+		<string>image1.jpg</string>
+	</array>
+	<key>PrepTime</key>
+	<array>
+		<string>30 min</string>
+		<string>30 min</string>
+		<string>20 min</string>
+		<string>30 min</string>
+		<string>10 min</string>
+		<string>1 hour</string>
+		<string>45 min</string>
+		<string>5 min</string>
+		<string>30 min</string>
+		<string>8 min</string>
+		<string>20 min</string>
+		<string>20 min</string>
+		<string>5 min</string>
+		<string>1.5 hour</string>
+		<string>4 hours</string>
+		<string>10 min</string>
+	</array>
+</dict>
+</plist>

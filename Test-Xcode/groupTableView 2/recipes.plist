@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>A</key>
+	<array>
+		<string>A1</string>
+		<string>A2</string>
+		<string>A3</string>
+		<string>A4</string>
+		<string>A5</string>
+	</array>
+	<key>B</key>
+	<array>
+		<string>B1</string>
+		<string>B2</string>
+		<string>B3</string>
+		<string>B4</string>
+		<string>B5</string>
+	</array>
+	<key>C</key>
+	<array>
+		<string>30 min</string>
+		<string>30 min</string>
+		<string>1.5 hour</string>
+		<string>4 hours</string>
+		<string>10 min</string>
+	</array>
+	<key>D</key>
+	<array>
+		<string>D1</string>
+		<string>D2</string>
+		<string>D3</string>
+	</array>
+</dict>
+</plist>

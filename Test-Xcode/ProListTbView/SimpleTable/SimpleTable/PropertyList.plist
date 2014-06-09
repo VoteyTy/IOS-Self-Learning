@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <key>tableData</key>
+        
+	<array>
+		<string></string>
+		<string>PHP</string>
+		<string>JS</string>
+		<string>C</string>
+		<string>Java</string>
+		<string>CMS </string>
+		<string>JQ</string>
+		<string>C++</string>
+		<string>HTML</string>
+		<string>CSS</string>
+		<string>JS</string>
+		<string>C</string>
+		<string>Java</string>
+		<string>JQ</string>
+		<string>C++</string>
+		<string>HTML</string>
+		<string>CSS</string>
+	</array>
+	<array/>
+	<string></string>
+	<string>30min</string>
+</array>
+</plist>
