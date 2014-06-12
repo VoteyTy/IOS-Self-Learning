@@ -22,11 +22,11 @@
 		181B23E5191A0F08003CE058 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 181B23E3191A0F08003CE058 /* ViewController.m */; };
 		181B23E6191A0F08003CE058 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 181B23E4191A0F08003CE058 /* ViewController.xib */; };
 		1B01AF781941992C00E597FD /* RadioButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 1B01AF771941992C00E597FD /* RadioButton.m */; };
+		1B2A712919499B1000F439DE /* RadioButton-Selected.png in Resources */ = {isa = PBXBuildFile; fileRef = 1B2A712519499B1000F439DE /* RadioButton-Selected.png */; };
+		1B2A712A19499B1000F439DE /* RadioButton-Selected@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1B2A712619499B1000F439DE /* RadioButton-Selected@2x.png */; };
+		1B2A712B19499B1000F439DE /* RadioButton-Unselected.png in Resources */ = {isa = PBXBuildFile; fileRef = 1B2A712719499B1000F439DE /* RadioButton-Unselected.png */; };
+		1B2A712C19499B1000F439DE /* RadioButton-Unselected@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1B2A712819499B1000F439DE /* RadioButton-Unselected@2x.png */; };
 		1BA271BD191A12E90070BE06 /* recipes.plist in Resources */ = {isa = PBXBuildFile; fileRef = 1BA271BC191A12E90070BE06 /* recipes.plist */; };
-		1BA6A2AD1937200F00A8F10E /* RadioButton-Selected.png in Resources */ = {isa = PBXBuildFile; fileRef = 1BA6A2A91937200F00A8F10E /* RadioButton-Selected.png */; };
-		1BA6A2AE1937200F00A8F10E /* RadioButton-Selected@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1BA6A2AA1937200F00A8F10E /* RadioButton-Selected@2x.png */; };
-		1BA6A2AF1937200F00A8F10E /* RadioButton-Unselected.png in Resources */ = {isa = PBXBuildFile; fileRef = 1BA6A2AB1937200F00A8F10E /* RadioButton-Unselected.png */; };
-		1BA6A2B01937200F00A8F10E /* RadioButton-Unselected@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1BA6A2AC1937200F00A8F10E /* RadioButton-Unselected@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,11 +61,11 @@
 		181B23E4191A0F08003CE058 /* ViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ViewController.xib; sourceTree = "<group>"; };
 		1B01AF761941992C00E597FD /* RadioButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RadioButton.h; sourceTree = "<group>"; };
 		1B01AF771941992C00E597FD /* RadioButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RadioButton.m; sourceTree = "<group>"; };
+		1B2A712519499B1000F439DE /* RadioButton-Selected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "RadioButton-Selected.png"; sourceTree = "<group>"; };
+		1B2A712619499B1000F439DE /* RadioButton-Selected@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "RadioButton-Selected@2x.png"; sourceTree = "<group>"; };
+		1B2A712719499B1000F439DE /* RadioButton-Unselected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "RadioButton-Unselected.png"; sourceTree = "<group>"; };
+		1B2A712819499B1000F439DE /* RadioButton-Unselected@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "RadioButton-Unselected@2x.png"; sourceTree = "<group>"; };
 		1BA271BC191A12E90070BE06 /* recipes.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = recipes.plist; path = ../recipes.plist; sourceTree = "<group>"; };
-		1BA6A2A91937200F00A8F10E /* RadioButton-Selected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "RadioButton-Selected.png"; path = "../../../Backup-Gift/Old-TheGiftApp/gift-app-ios/TheGift/Images/general/RadioButton-Selected.png"; sourceTree = "<group>"; };
-		1BA6A2AA1937200F00A8F10E /* RadioButton-Selected@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "RadioButton-Selected@2x.png"; path = "../../../Backup-Gift/Old-TheGiftApp/gift-app-ios/TheGift/Images/general/RadioButton-Selected@2x.png"; sourceTree = "<group>"; };
-		1BA6A2AB1937200F00A8F10E /* RadioButton-Unselected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "RadioButton-Unselected.png"; path = "../../../Backup-Gift/Old-TheGiftApp/gift-app-ios/TheGift/Images/general/RadioButton-Unselected.png"; sourceTree = "<group>"; };
-		1BA6A2AC1937200F00A8F10E /* RadioButton-Unselected@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "RadioButton-Unselected@2x.png"; path = "../../../Backup-Gift/Old-TheGiftApp/gift-app-ios/TheGift/Images/general/RadioButton-Unselected@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -180,10 +180,10 @@
 		1BA6A2A819371F9D00A8F10E /* Radio */ = {
 			isa = PBXGroup;
 			children = (
-				1BA6A2A91937200F00A8F10E /* RadioButton-Selected.png */,
-				1BA6A2AA1937200F00A8F10E /* RadioButton-Selected@2x.png */,
-				1BA6A2AB1937200F00A8F10E /* RadioButton-Unselected.png */,
-				1BA6A2AC1937200F00A8F10E /* RadioButton-Unselected@2x.png */,
+				1B2A712519499B1000F439DE /* RadioButton-Selected.png */,
+				1B2A712619499B1000F439DE /* RadioButton-Selected@2x.png */,
+				1B2A712719499B1000F439DE /* RadioButton-Unselected.png */,
+				1B2A712819499B1000F439DE /* RadioButton-Unselected@2x.png */,
 			);
 			name = Radio;
 			sourceTree = "<group>";
@@ -265,13 +265,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				181B23B9191A0EB9003CE058 /* InfoPlist.strings in Resources */,
-				1BA6A2AE1937200F00A8F10E /* RadioButton-Selected@2x.png in Resources */,
+				1B2A712A19499B1000F439DE /* RadioButton-Selected@2x.png in Resources */,
 				181B23E6191A0F08003CE058 /* ViewController.xib in Resources */,
 				1BA271BD191A12E90070BE06 /* recipes.plist in Resources */,
-				1BA6A2AD1937200F00A8F10E /* RadioButton-Selected.png in Resources */,
+				1B2A712919499B1000F439DE /* RadioButton-Selected.png in Resources */,
 				181B23C1191A0EB9003CE058 /* Images.xcassets in Resources */,
-				1BA6A2B01937200F00A8F10E /* RadioButton-Unselected@2x.png in Resources */,
-				1BA6A2AF1937200F00A8F10E /* RadioButton-Unselected.png in Resources */,
+				1B2A712C19499B1000F439DE /* RadioButton-Unselected@2x.png in Resources */,
+				1B2A712B19499B1000F439DE /* RadioButton-Unselected.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
