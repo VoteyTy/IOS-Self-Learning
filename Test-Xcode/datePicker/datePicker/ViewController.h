@@ -15,5 +15,6 @@
 @property (strong, nonatomic) IBOutlet UIDatePicker *datePicker;
 @property (strong, nonatomic) IBOutlet UIActionSheet *pickerViewPopup;
 - (IBAction)btnSave:(id)sender;
+- (IBAction)btnDelete:(id)sender;
 
 @end
