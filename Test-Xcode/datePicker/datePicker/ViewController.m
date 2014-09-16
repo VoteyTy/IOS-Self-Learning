@@ -122,4 +122,7 @@
 - (IBAction)btnSave:(id)sender {
     NSLog(@"%@",txtDOB.text);
 }
+
+- (IBAction)btnDelete:(id)sender {
+}
 @end
