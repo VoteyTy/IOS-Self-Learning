@@ -33,10 +33,10 @@
     UIButton *btnText = [UIButton buttonWithType:UIButtonTypeRoundedRect];
     btnText.titleLabel.text = @"dafds";
     [btnText addTarget:self action:@selector(CustomFunctio:) forControlEvents:UIControlEventTouchDown];
-    [btnText setBackgroundImage:[UIImage imageNamed:@"abc.png" ] forState:UIControlStateNormal];
+    [btnText setBackgroundImage:[UIImage imageNamed:@"NeckLace.jpg" ] forState:UIControlStateNormal];
     //[btnText setTitle:@"OK" forState:UIControlStateNormal];
     
-    btnText.frame = CGRectMake(10.0, 10.0, 200.0, 150);
+    btnText.frame = CGRectMake(10.0, 10.0, 350.0, 350);
     
     [self.view addSubview:btnText];
     

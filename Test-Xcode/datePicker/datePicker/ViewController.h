@@ -9,9 +9,11 @@
 #import <UIKit/UIKit.h>
 #import "TDDatePickerController.h"
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController<UIActionSheetDelegate,UITextFieldDelegate,UINavigationControllerDelegate>
 @property (strong, nonatomic) IBOutlet UITextField *txtDOB;
 @property (strong, nonatomic) IBOutlet TDDatePickerController *datePickerView;
+@property (strong, nonatomic) IBOutlet UIDatePicker *datePicker;
+@property (strong, nonatomic) IBOutlet UIActionSheet *pickerViewPopup;
 - (IBAction)btnSave:(id)sender;
 
 @end

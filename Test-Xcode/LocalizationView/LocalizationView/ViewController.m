@@ -41,7 +41,7 @@
 //    //add label to view
 //    [self.view addSubview:localizedLabel];
     
-    [self.btnlocal setTitle:NSLocalizedString(@"HelloKey", @"")  forState:UIControlStateNormal];
+    [self.btnlocal setTitle:NSLocalizedString(@"Hello Key", @"")  forState:UIControlStateNormal];
 }
 
 - (void)didReceiveMemoryWarning
