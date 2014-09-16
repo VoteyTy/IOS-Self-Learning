@@ -15,6 +15,10 @@
 @property (strong, nonatomic) IBOutlet UIDatePicker *datePicker;
 @property (strong, nonatomic) IBOutlet UIActionSheet *pickerViewPopup;
 - (IBAction)btnSave:(id)sender;
+<<<<<<< HEAD
+@property (weak, nonatomic) IBOutlet UITextField *lbTitle;
+=======
 - (IBAction)btnDelete:(id)sender;
+>>>>>>> master
 
 @end
