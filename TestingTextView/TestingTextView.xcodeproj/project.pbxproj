@@ -1,0 +1,92 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		1B472A351A2EBB7300F17D51 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		1B472A361A2EBB7300F17D51 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		1B472A371A2EBB7300F17D51 /* ViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ViewController.xib; sourceTree = "<group>"; };
+		1B472A391A2EBC5B00F17D51 /* HPGrowingTextView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HPGrowingTextView.h; sourceTree = "<group>"; };
+		1B472A3A1A2EBC5B00F17D51 /* HPGrowingTextView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HPGrowingTextView.m; sourceTree = "<group>"; };
+		1B472A3B1A2EBC5B00F17D51 /* HPTextViewInternal.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HPTextViewInternal.h; sourceTree = "<group>"; };
+		1B472A3C1A2EBC5B00F17D51 /* HPTextViewInternal.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HPTextViewInternal.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		1B472A2D1A2EBB0700F17D51 = {
+			isa = PBXGroup;
+			children = (
+				1B472A381A2EBC5B00F17D51 /* HPGrowingText */,
+				1B472A351A2EBB7300F17D51 /* ViewController.h */,
+				1B472A361A2EBB7300F17D51 /* ViewController.m */,
+				1B472A371A2EBB7300F17D51 /* ViewController.xib */,
+			);
+			sourceTree = "<group>";
+		};
+		1B472A381A2EBC5B00F17D51 /* HPGrowingText */ = {
+			isa = PBXGroup;
+			children = (
+				1B472A391A2EBC5B00F17D51 /* HPGrowingTextView.h */,
+				1B472A3A1A2EBC5B00F17D51 /* HPGrowingTextView.m */,
+				1B472A3B1A2EBC5B00F17D51 /* HPTextViewInternal.h */,
+				1B472A3C1A2EBC5B00F17D51 /* HPTextViewInternal.m */,
+			);
+			path = HPGrowingText;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		1B472A2E1A2EBB0700F17D51 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0600;
+			};
+			buildConfigurationList = 1B472A311A2EBB0700F17D51 /* Build configuration list for PBXProject "TestingTextView" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 1B472A2D1A2EBB0700F17D51;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		1B472A321A2EBB0700F17D51 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		1B472A331A2EBB0700F17D51 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1B472A311A2EBB0700F17D51 /* Build configuration list for PBXProject "TestingTextView" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1B472A321A2EBB0700F17D51 /* Debug */,
+				1B472A331A2EBB0700F17D51 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 1B472A2E1A2EBB0700F17D51 /* Project object */;
+}
